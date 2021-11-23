@@ -1,0 +1,3 @@
+class DroppedItem extends GameObject {
+  
+}
